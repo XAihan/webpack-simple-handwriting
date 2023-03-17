@@ -1,0 +1,1 @@
+module.exports = "一个快乐的程序员";
